@@ -6,4 +6,5 @@ __Course Structure__
 | ------- | ----- |
 | Project 1 | Change The Background Color By Clicking The Following Button |
 | Project 2 | Generate Hexadecimal Color |
-| Project 3 | Copy Color Code By Clicking A Button |
+| Project 3 | Copy Color Code By Clicking A Button | 
+| Project 3 | Generate A Dynamic Toast Message |
